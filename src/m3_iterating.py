@@ -346,4 +346,5 @@ def draw_circles(window, points, radius, color):
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # -----------------------------------------------------------------------------
+print('Ignore this message')
 main()
